@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nutlecum.github.io/sitemap.html.gz
+Sitemap: https://nutlecum.github.io/app/sitemap.html.gz
+Sitemap: https://nutlecum.github.io/assets/sitemap.html.gz
+Sitemap: https://nutlecum.github.io/css/sitemap.html.gz
+Sitemap: https://nutlecum.github.io/includes/sitemap.html.gz
+Sitemap: https://nutlecum.github.io/item/sitemap.html.gz
+Sitemap: https://nutlecum.github.io/src/sitemap.html.gz
